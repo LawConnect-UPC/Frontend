@@ -1,0 +1,30 @@
+
+.EditProfile {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.EditProfileInformation {
+    display: flex;
+    justify-content:  center;
+    flex-direction: column;
+    gap: 10px;
+    img {
+        width: 250px;
+        height: 250px;
+        border-radius: 1000px;
+        border: 2px solid #D3D2D2;
+        margin: 0 auto;
+    }
+    & > div {
+        p:first-child {
+            font-weight: 700;
+            color: #565656;
+            letter-spacing: 0.4px;
+        }
+        p:last-child {
+            font-weight: 400;
+            color: #7D7D7D;
+        }
+    }
+}

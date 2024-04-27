@@ -1,0 +1,62 @@
+.ListPlans {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.formSuscription{
+    max-width: 1000px;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    text-decoration: none;
+    > * + * {
+        margin-top: 20px;
+    }
+}
+
+.titulos {
+    text-decoration: underline;
+    color: black;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.subTitulos{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.miniTitulos{
+    text-decoration: none;
+    font-size: 15px;
+    color: dimgray;
+}
+
+.planPayment {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.paymentDetails {
+    .h3 {
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 20px;
+    }
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 20px;
+}

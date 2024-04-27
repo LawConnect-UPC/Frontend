@@ -1,0 +1,65 @@
+.SimpleHeader {
+    height: 120px;
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    img {
+        height: 60px;
+    }
+}
+.HeaderLoginPrincipal {
+    height: 120px;
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    a {
+        img {
+            height: 60px;
+        }
+    }
+}
+.HeaderLoginProfile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+    .HeaderLoginInfo {
+        p:last-child {
+            font-weight: 700;
+        }
+        p:first-child {
+            font-weight: 700;
+            color: #8223A4;
+        }
+    }
+
+    .HeaderLoginImage {
+        img {
+            width: 80px;
+            height: 80px;
+            border-radius: 100px;
+            border: 2px solid #D3D2D2;
+        }
+    }
+    .CloseSession {
+        button {
+            padding: 0 15px;
+        }
+    }
+}
+
+.HeaderMenu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #8223A4;
+    height: 45px;
+    padding: 0px 30px;
+    a {
+        text-decoration: none;
+        font-weight: 700;
+        color: white;
+    }
+}

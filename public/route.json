@@ -1,0 +1,3 @@
+{
+    "/lawyers/_search?fisrtName=:searchstring": "/lawyers/?fisrtName_like=:searchstring"
+}

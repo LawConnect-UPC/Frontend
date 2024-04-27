@@ -1,0 +1,39 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+
+input, textarea{
+  outline: none;
+}
+
+textarea {
+  resize: none;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, label, input, textarea, button, div, a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+}
+h2 {
+  text-decoration: underline;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+
+.body-container {
+  max-width: 1200px;
+  margin: 40px auto;
+}

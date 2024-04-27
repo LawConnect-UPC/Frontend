@@ -1,0 +1,42 @@
+{
+   "cliente": {
+     "iCodigoCliente": 47358,
+     "vNombres": "JAVIER",
+     "vApellidos": "RIVAS DIAZ",
+     "vCelular": "917439583",
+     "vCorreo": "jrrivasdiaz@gmail.com",
+     "iCodigoTipoDocumento": 2,
+     "vNroDocumento": "47963118",
+     "bFlagTerminos": true,
+     "bFlagPublicidad": true
+   },
+   "compra": {
+     "vehiculo": {
+       "vPlaca": "LNI002",
+       "vMarca": "AUDI",
+       "iCodigoPlan": 300,
+       "iCodigoRecargaAdicional": 0
+     },
+     "entrega": {
+       "bFlagDomicilio": true,
+       "vDireccionEntrega": "DIRECCION PRUEBA",
+       "vReferenciaEntrega": "REFERENCIA PRUEBA",
+       "vCodigoUbigeo": "1309150119",
+       "vNombreContacto": "CONTACTO PRUEBA",
+       "vCelularContacto": "999999999",
+       "bFlagPuntoVenta": false,
+       "iCodigoPuntoVenta": 60
+     },
+     "comprobante": {
+       "bFlagBoleta": false,
+       "bFlagFactura": true,
+       "vNroRUC": "10479631188"
+     },
+     "pago": {
+       "iCodigoMedioPago": 3
+     }
+   }
+ }
+ 
+ 
+ 

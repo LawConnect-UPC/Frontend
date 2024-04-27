@@ -1,0 +1,462 @@
+{
+  "lawyers": [
+    {
+      "id": "1",
+      "firstName": "Pepe",
+      "lastName": "Gopel",
+      "urlImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "pepe@gmail.com",
+      "password": "pass",
+      "description": "Abogado comprometido con la justicia y la defensa de tus derechos. Con experiencia y dedicación, brindo asesoramiento legal experto para resolver tus casos con eficacia y confianza.",
+      "type": "lawyer",
+      "totalCases": 100,
+      "wonCases": 50,
+      "lostCases": 50
+    },
+    {
+      "id": "2",
+      "firstName": "María",
+      "lastName": "López",
+      "urlImage": "https://randomuser.me/api/portraits/women/1.jpg",
+      "email": "maria@gmail.com",
+      "password": "pass",
+      "description": "Especializada en derecho civil y familiar, comprometida en brindar soluciones legales efectivas para tus necesidades. Con un historial probado de éxito, estoy aquí para representarte con integridad y pasión.",
+      "type": "lawyer",
+      "totalCases": 80,
+      "wonCases": 60,
+      "lostCases": 20
+    },
+    {
+      "id": "3",
+      "firstName": "Juan",
+      "lastName": "Martínez",
+      "urlImage": "https://randomuser.me/api/portraits/men/2.jpg",
+      "email": "juan@gmail.com",
+      "password": "pass",
+      "description": "Con una sólida formación en derecho penal y laboral, me dedico a defender tus intereses con determinación y profesionalismo. Cada caso es una prioridad, y estoy comprometido en obtener los mejores resultados para ti.",
+      "type": "lawyer",
+      "totalCases": 120,
+      "wonCases": 90,
+      "lostCases": 30
+    },
+    {
+      "id": "4",
+      "firstName": "Laura",
+      "lastName": "García",
+      "urlImage": "https://randomuser.me/api/portraits/women/3.jpg",
+      "email": "laura@gmail.com",
+      "password": "pass",
+      "description": "Especializada en derecho empresarial y propiedad intelectual, ofrezco soluciones legales estratégicas para proteger tus intereses comerciales. Mi objetivo es garantizar tu éxito y seguridad jurídica en todo momento.",
+      "type": "lawyer",
+      "totalCases": 70,
+      "wonCases": 50,
+      "lostCases": 20
+    },
+    {
+      "id": "5",
+      "firstName": "Carlos",
+      "lastName": "Gómez",
+      "urlImage": "https://randomuser.me/api/portraits/men/4.jpg",
+      "email": "carlos@gmail.com",
+      "password": "pass",
+      "description": "Con experiencia en litigios civiles y administrativos, estoy comprometido en ofrecerte representación legal experta y personalizada. Mi enfoque es resolver tus problemas legales de manera eficiente y satisfactoria.",
+      "type": "lawyer",
+      "totalCases": 60,
+      "wonCases": 40,
+      "lostCases": 20
+    },
+    {
+      "id": "6",
+      "firstName": "Pepe",
+      "lastName": "Gopel",
+      "urlImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "pepe@gmail.com",
+      "password": "pass",
+      "description": "Abogado comprometido con la justicia y la defensa de tus derechos. Con experiencia y dedicación, brindo asesoramiento legal experto para resolver tus casos con eficacia y confianza.",
+      "type": "lawyer",
+      "totalCases": 100,
+      "wonCases": 50,
+      "lostCases": 50
+    },
+    {
+      "id": "7",
+      "firstName": "Pepe",
+      "lastName": "Gopel",
+      "urlImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "pepe@gmail.com",
+      "password": "pass",
+      "description": "Abogado comprometido con la justicia y la defensa de tus derechos. Con experiencia y dedicación, brindo asesoramiento legal experto para resolver tus casos con eficacia y confianza.",
+      "type": "lawyer",
+      "totalCases": 100,
+      "wonCases": 50,
+      "lostCases": 50
+    }
+  ],
+  "person": [
+    {
+      "id": "1",
+      "firstName": "Ana",
+      "lastName": "Ramírez",
+      "urlImage": "https://randomuser.me/api/portraits/women/11.jpg",
+      "email": "ana@gmail.com",
+      "password": "pass",
+      "description": "Buscando asesoramiento legal en asuntos relacionados con propiedad intelectual y derechos de autor.",
+      "type": "person"
+    },
+    {
+      "firstName": "Pedro X",
+      "lastName": "Sanchez A",
+      "urlImage": "https://randomuser.me/api/portraits/men/12.jpg",
+      "email": "pedro@gmail.com",
+      "password": "pass",
+      "description": "En búsqueda de un abogado especializado en litigios comerciales y resolución de disputas contractuales.",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "María",
+      "lastName": "Gutiérrez",
+      "urlImage": "https://randomuser.me/api/portraits/women/13.jpg",
+      "email": "maria@gmail.com",
+      "password": "pass",
+      "description": "Necesitando asistencia legal en temas de derecho migratorio y obtención de visas.",
+      "type": "person"
+    },
+    {
+      "id": "4",
+      "firstName": "Javier",
+      "lastName": "Hernández",
+      "urlImage": "https://randomuser.me/api/portraits/men/14.jpg",
+      "email": "javier@gmail.com",
+      "password": "pass",
+      "description": "Buscando representación legal en casos de accidentes de tráfico y reclamaciones por lesiones personales.",
+      "type": "person"
+    },
+    {
+      "id": "5",
+      "firstName": "Lucía",
+      "lastName": "Fernández",
+      "urlImage": "https://randomuser.me/api/portraits/women/15.jpg",
+      "email": "lucia@gmail.com",
+      "password": "pass",
+      "description": "En búsqueda de un abogado con experiencia en derecho de familia para asuntos de divorcio y custodia.",
+      "type": "person"
+    },
+    {
+      "id": "6d61",
+      "firstName": "Djalma",
+      "lastName": "Dioses",
+      "email": "test@gmail.com",
+      "password": "pass"
+    },
+    {
+      "id": "59b6",
+      "firstName": "Pedro",
+      "lastName": "Sánchez",
+      "email": "pedro@gmail.com"
+    },
+    {
+      "id": "e80d",
+      "firstName": "Pedro",
+      "lastName": "Sánchez",
+      "email": "pedro@gmail.com"
+    },
+    {
+      "id": "3eab",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test1@gmail.com",
+      "password": "pass"
+    },
+    {
+      "id": "2614",
+      "firstName": "ivan",
+      "lastName": "la madrid",
+      "email": "ivan@example.com",
+      "password": "ivan123"
+    },
+    {
+      "id": "741d",
+      "firstName": "Ivan Jeanpierre",
+      "lastName": "La Madrid Lozano",
+      "email": "ivan@example.com",
+      "password": "ivan123"
+    },
+    {
+      "id": "b937",
+      "firstName": "hola",
+      "lastName": "hola",
+      "email": "hola@example.com",
+      "password": "hola123"
+    },
+    {
+      "id": "6411"
+    }
+  ],
+  "cases": [
+    {
+      "state": "Cerrado",
+      "description": "Prueba123",
+      "title": "Prueba",
+      "clientId": 8,
+      "lawyerId": 10,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Litigio comercial",
+      "description": "Pedro Sánchez está involucrado en un litigio comercial y busca representación legal para resolver disputas contractuales con una empresa.",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 2
+    },
+    {
+      "id": "3",
+      "title": "Obtención de visa",
+      "description": "Pedro Sánchez necesita asesoramiento legal para obtener una visa de trabajo en un país extranjero.",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 3
+    },
+    {
+      "id": "4",
+      "title": "Reclamación por lesiones personales",
+      "description": "Pedro Sánchez busca representación legal para una reclamación por lesiones personales resultantes de un accidente de tráfico.",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 4
+    },
+    {
+      "id": "5",
+      "title": "Asuntos de divorcio",
+      "description": "Pedro Sánchez necesita asistencia legal en un proceso de divorcio, incluida la custodia de los hijos.",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 5
+    },
+    {
+      "state": "Cerrado",
+      "id": "88c8"
+    },
+    {
+      "state": "Cerrado",
+      "id": "9707"
+    },
+    {
+      "state": "Cerrado",
+      "id": "6182"
+    },
+    {
+      "id": "cc87",
+      "title": "caso caso caso, caso caso casooooo",
+      "description": "casosss",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 1
+    },
+    {
+      "state": "Cerrado",
+      "id": "3466"
+    },
+    {
+      "state": "Cerrado",
+      "id": "e0f6"
+    },
+    {
+      "id": "f235",
+      "title": "Caso de prueba ahora si prueba de prueba",
+      "description": "Este es la descripcio nde un caso super mega hiper espectacular con mas de un millon de dolares en juego",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 3
+    },
+    {
+      "id": "4d13",
+      "title": "wfwfwfwf",
+      "description": "wfwfwfw",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 1
+    },
+    {
+      "id": "d87b",
+      "title": "Caso xxx",
+      "description": "cualquier cosa wfwfwf",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 1
+    },
+    {
+      "id": "7f11",
+      "title": "qwetgsergerg",
+      "description": "segeageg",
+      "state": "Cerrado",
+      "clientId": 2,
+      "lawyerId": 3
+    },
+    {
+      "id": "2738",
+      "title": "Hombre me ha robado mi celular en plena avenida",
+      "description": "Un hombre mayor de edad me robo 50 soles y tambien mi celular ayer por caqueta. Por como caminaba pareciera que estaba cojo.",
+      "state": "Abierto",
+      "clientId": 2,
+      "lawyerId": 5
+    }
+  ],
+  "notifications": [
+    {
+      "id": "2",
+      "title": "Nuevo mensaje: Litigio comercial",
+      "description": "Tienes un nuevo mensaje relacionado con el litigio comercial de Pedro Sánchez.",
+      "consultId": 2,
+      "personId": 2
+    },
+    {
+      "id": "3",
+      "title": "Nuevo mensaje: Obtención de visa",
+      "description": "Tienes un nuevo mensaje relacionado con la obtención de visa de Pedro Sánchez.",
+      "consultId": 3,
+      "personId": 2
+    },
+    {
+      "id": "4",
+      "title": "Nuevo mensaje: Reclamación por lesiones personales",
+      "description": "Tienes un nuevo mensaje relacionado con la reclamación por lesiones personales de Pedro Sánchez.",
+      "consultId": 4,
+      "personId": 2
+    },
+    {
+      "id": "5",
+      "title": "Nuevo mensaje: Asuntos de divorcio",
+      "description": "Tienes un nuevo mensaje relacionado con los asuntos de divorcio de Pedro Sánchez.",
+      "consultId": 5,
+      "personId": 2
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "caseId": "1",
+      "text": "¿Hay alguna actualización sobre mi caso?",
+      "sender": "client"
+    },
+    {
+      "id": "2",
+      "caseId": "1",
+      "text": "Tu caso está siendo revisado, te informaremos pronto.",
+      "sender": "lawyer"
+    },
+    {
+      "id": "42f0",
+      "caseId": "4d13",
+      "text": "Hola",
+      "sender": "client"
+    },
+    {
+      "id": "0065",
+      "caseId": "4d13",
+      "text": "Esto es un mensaje de prueba",
+      "sender": "client"
+    },
+    {
+      "id": "5448",
+      "caseId": "cc87",
+      "text": "hola, esto es un mensaje de prueba",
+      "sender": "cliente"
+    },
+    {
+      "id": "fdcd",
+      "caseId": "cc87",
+      "text": "Hooooollaa",
+      "sender": "cliente"
+    },
+    {
+      "id": "e3fd",
+      "caseId": "cc87",
+      "text": "Esto es una coleccion",
+      "sender": "cliente"
+    },
+    {
+      "id": "b93b",
+      "caseId": "cc87",
+      "text": "muchhoooooss mensajes",
+      "sender": "cliente"
+    },
+    {
+      "id": "0680",
+      "caseId": "5",
+      "text": "AYUDAAAAAAAAAAAAAAAAAAAA",
+      "sender": "cliente"
+    },
+    {
+      "id": "fbcf",
+      "caseId": "2738",
+      "text": "Hola estimado Carlos",
+      "sender": "cliente"
+    },
+    {
+      "id": "26e9",
+      "caseId": "2738",
+      "text": "Este es un mensaje de prueba, me gustaria solicitar tus servicios como abogado, se que eres el mejor en lo que haces y me gustaria que hablaramos mas al respecto de nuestro caso.",
+      "sender": "cliente"
+    },
+    {
+      "id": "86ae",
+      "caseId": "2",
+      "text": "test",
+      "sender": "cliente"
+    },
+    {
+      "id": "3843",
+      "caseId": "2",
+      "text": "test",
+      "sender": "cliente"
+    },
+    {
+      "id": "fc22",
+      "caseId": "2",
+      "text": "test",
+      "sender": "cliente"
+    },
+    {
+      "id": "7c35",
+      "consultId": 1,
+      "messageToSend": "test",
+      "personId": 8
+    }
+  ],
+  "plans": [
+    {
+      "id": "6",
+      "name": "Plan Básico",
+      "description": "Phasellus a ligula consectetur ipsum sodales tincidunt eu non ligula.",
+      "price": 15
+    },
+    {
+      "id": "8",
+      "name": "Plan Premium",
+      "description": "Phasellus a ligula consectetur ipsum sodales tincidunt eu non ligula.",
+      "price": 20
+    },
+    {
+      "id": "9",
+      "name": "Plan Business",
+      "description": "Phasellus a ligula consectetur ipsum sodales tincidunt eu non ligula.",
+      "price": 25
+    }
+  ],
+  "personPlan": [
+    {
+      "id": "df76",
+      "date": "2024-04-26T22:32:20.179Z",
+      "personId": "10",
+      "planId": "6"
+    },
+    {
+      "id": "747a",
+      "date": "2024-04-27T00:02:51.140Z",
+      "personId": 8,
+      "planId": "6"
+    }
+  ]
+}
