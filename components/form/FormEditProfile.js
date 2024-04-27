@@ -4,7 +4,7 @@ import Input from "../utils/Input"
 import { useEffect, useState } from "react"
 import Alert from "../utils/Alert";
 import axios from "axios";
-import TextArea from "../utils/Textarea"
+import TextArea from "../utils/TextArea"
 import { useDispatch, useSelector } from "react-redux";
 import { updateUser } from "../../redux/userSlice";
 
